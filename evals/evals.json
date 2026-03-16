@@ -1,0 +1,133 @@
+{
+  "skill_name": "behavioral-design",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I'm designing a savings feature for a fintech app. Users are completing onboarding but only 12% set up a savings goal within the first week. Walk me through how to diagnose why this is happening and what to do about it.",
+      "expected_output": "A behavioral diagnosis that: (1) asks to define the specific target behavior precisely, (2) maps the steps to set up a savings goal with friction sources, (3) identifies likely barrier types (cognitive overload, status quo bias, or mental model mismatch), (4) proposes specific interventions with hypothesis statements in 'If... then... because...' format, (5) includes an ethics check.",
+      "assertions": [
+        {
+          "name": "defines-specific-behavior",
+          "description": "Output includes or asks for a clear, specific, observable/measurable behavior definition"
+        },
+        {
+          "name": "identifies-barrier-type",
+          "description": "Output names at least one of the 4 barrier types (Attention, Cognitive Overload, Status Quo, Mental Model)"
+        },
+        {
+          "name": "hypothesis-format",
+          "description": "At least one intervention is written as 'If [change], then [behavior change], because [mechanism]'"
+        },
+        {
+          "name": "swac-framework",
+          "description": "Uses SPARK/WANT/AGAIN/CAN or equivalent framework to organize or diagnose"
+        },
+        {
+          "name": "ethics-mentioned",
+          "description": "Output includes an ethics consideration or check"
+        }
+      ],
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Our B2B SaaS product has a collaboration feature (real-time co-editing) that we know users would benefit from, but only 8% of teams have ever used it, even though it's been live for 6 months. How do I apply behavioral design to figure out why and fix it?",
+      "expected_output": "Analysis that: (1) identifies this as likely an attention or status quo bias problem, (2) maps the four forces (pains/gains/anxieties/comforts) of why teams stay with individual work, (3) distinguishes CAN vs WANT vs SPARK failure modes, (4) gives specific, named techniques with rationale, (5) suggests a testing approach.",
+      "assertions": [
+        {
+          "name": "four-forces-applied",
+          "description": "Output uses pains/gains/anxieties/comforts or equivalent framework to diagnose why users stay with current behavior"
+        },
+        {
+          "name": "multiple-techniques",
+          "description": "At least 3 specific named intervention techniques are recommended"
+        },
+        {
+          "name": "hypothesis-format",
+          "description": "At least one hypothesis is written in testable 'If... then... because...' format"
+        },
+        {
+          "name": "practical-and-specific",
+          "description": "Recommendations are specific to the collaboration feature scenario, not generic advice"
+        }
+      ],
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "I want to design a nudge for a health app to encourage users to log their meals daily. Most users log for the first 3 days then stop. What technique should I use and how do I make sure it's ethical?",
+      "expected_output": "Response that: (1) diagnoses this as primarily an AGAIN/habit problem with a possible SPARK component, (2) recommends specific habit-formation techniques (habit stacking, celebration moments, streaks, contextual triggers), (3) addresses the ethics question directly with the nudge vs. manipulation distinction, (4) distinguishes techniques that serve user wellbeing vs. those that might create unhealthy compulsion.",
+      "assertions": [
+        {
+          "name": "diagnoses-again-problem",
+          "description": "Correctly identifies this as primarily a habit/repetition (AGAIN) problem"
+        },
+        {
+          "name": "habit-techniques",
+          "description": "Recommends specific habit-formation techniques (habit stacking, streaks, celebration moments, or reinforcement timing)"
+        },
+        {
+          "name": "ethics-substantive",
+          "description": "Ethics section goes beyond a one-liner and distinguishes beneficial nudges from manipulation or compulsion"
+        },
+        {
+          "name": "trigger-techniques",
+          "description": "Addresses the SPARK/trigger problem (why users forget to log after day 3)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "I need to run a behavioral design workshop with my product team next week. We're a team of 5 (2 designers, 1 PM, 1 engineer, 1 researcher). We're working on reducing churn in the first 30 days of our project management tool. Can you give me an agenda and facilitation guide?",
+      "expected_output": "A complete workshop agenda that: (1) starts with behavior definition, (2) includes behavioral mapping exercise, (3) uses 3Bs or equivalent framework for diagnosis, (4) includes specific timings, (5) provides facilitation tips for a cross-functional team, (6) ends with actionable next steps.",
+      "assertions": [
+        {
+          "name": "complete-agenda",
+          "description": "Agenda has at least 4 distinct timed segments"
+        },
+        {
+          "name": "behavior-definition-first",
+          "description": "Behavior definition or specificity step comes before diagnosis activities"
+        },
+        {
+          "name": "cross-functional-tips",
+          "description": "Facilitation notes address the cross-functional team composition"
+        },
+        {
+          "name": "actionable-outputs",
+          "description": "Workshop outputs include testable next steps (hypotheses, prioritized interventions), not just discussion"
+        }
+      ],
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "Can you do a behavioral audit of our e-commerce checkout flow? Users add to cart but 68% abandon before completing payment. Here's the flow: (1) Cart review page → (2) Enter email address → (3) Shipping address form with 8 fields → (4) Choose shipping method with 5 options at different prices → (5) Enter payment details → (6) Order confirmation page with upsells → (7) Thank you page. What behavioral issues do you see and what should we fix first?",
+      "expected_output": "A behavioral audit that: (1) identifies specific friction points for each step, (2) names barrier types for each issue, (3) prioritizes the highest-impact fixes, (4) gives specific techniques per issue (smart defaults for shipping, reducing form fields, fewer options), (5) includes at least one hypothesis statement, (6) flags ethics concerns about upsells on confirmation page.",
+      "assertions": [
+        {
+          "name": "step-by-step-analysis",
+          "description": "Output analyzes at least 4 of the 7 flow steps for behavioral issues"
+        },
+        {
+          "name": "barrier-types-named",
+          "description": "At least 2 distinct barrier types are named for specific steps"
+        },
+        {
+          "name": "prioritized-recommendations",
+          "description": "Recommendations are prioritized with rationale for what to fix first"
+        },
+        {
+          "name": "specific-techniques",
+          "description": "At least 3 specific named techniques are recommended (e.g., pre-filling, option reduction, chunking)"
+        },
+        {
+          "name": "ethics-upsells",
+          "description": "Ethics or dark pattern concern is raised about the upsells on the confirmation page"
+        }
+      ],
+      "files": []
+    }
+  ]
+}
