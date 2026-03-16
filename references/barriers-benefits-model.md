@@ -1,4 +1,4 @@
-# Barriers and Benefits Model (3Bs) — Deep Guide
+# Barriers and Benefits Model (3Bs) - Deep Guide
 
 The 3Bs model diagnoses behavioral problems at the level of psychology, not interface. It prevents the most common design mistake: redesigning the surface when the real problem is the user's mental state.
 
@@ -11,9 +11,9 @@ The 3Bs model diagnoses behavioral problems at the level of psychology, not inte
 The user doesn't see, notice, or remember that the behavior opportunity exists.
 
 **Sub-types:**
-- **Memory failure** — User intended to act but forgot. Intention doesn't create automatic reminders.
-- **Salience failure** — The prompt exists but doesn't register. It's visually present but not psychologically present.
-- **Information avoidance** — User actively ignores the prompt because engaging triggers anxiety or requires effort they'd rather defer.
+- **Memory failure** - User intended to act but forgot. Intention doesn't create automatic reminders.
+- **Salience failure** - The prompt exists but doesn't register. It's visually present but not psychologically present.
+- **Information avoidance** - User actively ignores the prompt because engaging triggers anxiety or requires effort they'd rather defer.
 
 **Diagnostic signals:** Feature exists but rarely accessed; low notification open rates; user expresses surprise something was available; high impressions, near-zero engagement.
 
@@ -29,10 +29,10 @@ The user doesn't see, notice, or remember that the behavior opportunity exists.
 The decision or action requires more mental effort than the user will expend at that moment.
 
 **Sub-types:**
-- **Decision complexity** — Too many options, unclear trade-offs, hard to compare alternatives
-- **Choice paralysis** — Options feel equal in value; user can't determine which is right
-- **High effort** — Too many steps, fields, or pieces of information required
-- **Unfamiliar format** — User encounters a pattern they don't recognize and must figure out how it works
+- **Decision complexity** - Too many options, unclear trade-offs, hard to compare alternatives
+- **Choice paralysis** - Options feel equal in value; user can't determine which is right
+- **High effort** - Too many steps, fields, or pieces of information required
+- **Unfamiliar format** - User encounters a pattern they don't recognize and must figure out how it works
 
 **Diagnostic signals:** Long time-on-page at decision points; high rates of starting but not completing; abandonment on multi-step forms; user leaves to "think about it" and doesn't return.
 
@@ -49,9 +49,9 @@ The decision or action requires more mental effort than the user will expend at 
 The user prefers doing nothing or staying with their current behavior, even when changing would benefit them.
 
 **Sub-types:**
-- **Opportunity cost neglect** — User doesn't register what they're missing by not acting
-- **Loss aversion** — The cost of switching feels more salient than the benefit of changing
-- **Inertia** — No strong reason to change; existing behavior requires no activation energy
+- **Opportunity cost neglect** - User doesn't register what they're missing by not acting
+- **Loss aversion** - The cost of switching feels more salient than the benefit of changing
+- **Inertia** - No strong reason to change; existing behavior requires no activation energy
 
 **Diagnostic signals:** Low adoption of optional but genuinely beneficial features; users return to old workflows after onboarding to new ones; high activation, low sustained engagement.
 
@@ -68,10 +68,10 @@ The user prefers doing nothing or staying with their current behavior, even when
 The user's internal understanding of how the product works doesn't match the actual design.
 
 **Sub-types:**
-- **Category error** — User believes the product does something fundamentally different than it does
-- **Workflow mismatch** — User expects steps in a different order than the actual flow
-- **Label confusion** — Terminology means something different to the user than to the team
-- **Conceptual gap** — User lacks background knowledge needed to understand how this works
+- **Category error** - User believes the product does something fundamentally different than it does
+- **Workflow mismatch** - User expects steps in a different order than the actual flow
+- **Label confusion** - Terminology means something different to the user than to the team
+- **Conceptual gap** - User lacks background knowledge needed to understand how this works
 
 **Diagnostic signals:** High support volume for "how does X work?" questions; users navigating to wrong sections; unexpected usage patterns in analytics; high bounce after viewing a specific screen.
 
@@ -107,10 +107,10 @@ Social belonging, identity expression, reputation, altruism, meaning.
 
 | Barrier | Most effective motivator counter |
 |---------|--------------------------------|
-| Attention | Emotional/hedonic — make the trigger feel rewarding to engage with |
-| Cognitive Overload | Functional — show the effort is worth it; also reduce the effort |
+| Attention | Emotional/hedonic - make the trigger feel rewarding to engage with |
+| Cognitive Overload | Functional - show the effort is worth it; also reduce the effort |
 | Status Quo Bias | Loss framing (functional via loss aversion) + psychological (social norms, identity) |
-| Mental Model | Functional clarity — show how it actually works and why that serves them |
+| Mental Model | Functional clarity - show how it actually works and why that serves them |
 
 ---
 

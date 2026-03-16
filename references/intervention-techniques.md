@@ -13,7 +13,7 @@ Remove choices that aren't necessary. Present fewer paths. If there are three ti
 - *Example: Instead of showing 8 notification settings, group into "Essentials" and "All" with Essentials pre-selected.*
 
 ### Smart Defaults
-Pre-select the option most users benefit from. Users who want to change can — but most won't need to. Defaults have outsized influence on outcomes.
+Pre-select the option most users benefit from. Users who want to change can - but most won't need to. Defaults have outsized influence on outcomes.
 - *Example: Pre-set privacy to "Team only" rather than "Public" for new documents.*
 
 ### Pre-filling
@@ -30,15 +30,15 @@ Replace vague prompts with specific instructions. Vague prompts create decision 
 
 ### Explicit Next Steps
 Always make the next action obvious. Remove ambiguity about what to do after completing a step. Never leave users on a success screen with nowhere to go.
-- *Example: After form submission, show "Your account is ready — here's what to do first: [primary CTA]."*
+- *Example: After form submission, show "Your account is ready - here's what to do first: [primary CTA]."*
 
 ### Strategic Deadlines
-Add genuine time constraints where appropriate. Deadlines reduce deferral. Must feel real to be effective — fake urgency backfires and erodes trust.
+Add genuine time constraints where appropriate. Deadlines reduce deferral. Must feel real to be effective - fake urgency backfires and erodes trust.
 - *Example: "Your team invitation expires in 48 hours" on a real 48-hour expiry.*
 
 ### Strategic Pauses
 Introduce a decision point before a high-stakes or irreversible action. Gives users agency and reduces post-action regret.
-- *Example: "Before you archive all 340 items — are you sure? This can't be undone." with a count-based friction.*
+- *Example: "Before you archive all 340 items - are you sure? This can't be undone." with a count-based friction.*
 
 ---
 
@@ -46,11 +46,11 @@ Introduce a decision point before a high-stakes or irreversible action. Gives us
 
 Techniques that make the behavior more appealing or more necessary.
 
-### Social Proof — Descriptive Norm
+### Social Proof - Descriptive Norm
 Show what similar users actually do: "78% of new users complete this step in their first session."
 - Reduces uncertainty by showing the behavior is normal and expected.
 
-### Social Proof — Injunctive Norm
+### Social Proof - Injunctive Norm
 Show what's considered the right thing to do: "Most teams in your industry have this enabled."
 - Activates a sense of social expectation, not just description of behavior.
 
@@ -63,12 +63,12 @@ Make the benefit feel specifically relevant: "Based on your usage, you'd save ab
 - Generic benefits are easy to discount; personal relevance makes them feel real.
 
 ### Loss Aversion Framing
-Reframe from gain to loss: Instead of "Get 20% more storage," use "You're using 80% of your storage — protect your work."
+Reframe from gain to loss: Instead of "Get 20% more storage," use "You're using 80% of your storage - protect your work."
 - People are roughly 2× more motivated to avoid losses than to acquire equivalent gains.
 
 ### Progress Visibility
 Show how far the user has come, not just how far to go. Progress bars, completion percentages, milestone markers.
-- Activates the goal gradient effect — people accelerate as they approach a finish line.
+- Activates the goal gradient effect - people accelerate as they approach a finish line.
 
 ### Goal Gradient Effect
 Make visible that the user is close to a milestone. Proximity to a goal naturally increases effort.
@@ -76,7 +76,7 @@ Make visible that the user is close to a milestone. Proximity to a goal naturall
 
 ### Anchoring
 Introduce a reference point that makes the desired option seem more reasonable. What gets shown first shapes how everything else is evaluated.
-- *Example: Show the "Team" plan before "Individual" — the first seen becomes the reference point.*
+- *Example: Show the "Team" plan before "Individual" - the first seen becomes the reference point.*
 
 ### Priming
 Expose users to concepts or emotions before a decision that make the desired behavior more salient.
@@ -98,7 +98,7 @@ Ask users to specify when and how they'll complete the behavior: "When do you pl
 Techniques that prompt action at the right moment.
 
 ### Contextual Timing
-Trigger prompts when users are most receptive — immediately after a successful action, not in the middle of a task.
+Trigger prompts when users are most receptive - immediately after a successful action, not in the middle of a task.
 - *Example: Ask for profile completion right after a user's first successful search, not during onboarding.*
 
 ### Multiple Touchpoints
@@ -111,7 +111,7 @@ Make the desired behavior visible in the user's environment without demanding im
 
 ### Event-Based Triggers
 Connect prompts to meaningful user events: first login, milestone completion, approaching a limit, returning after absence.
-- *Example: "Welcome back — you have 3 items waiting for your review" on a user who hasn't logged in for 7 days.*
+- *Example: "Welcome back - you have 3 items waiting for your review" on a user who hasn't logged in for 7 days.*
 
 ---
 
@@ -133,14 +133,14 @@ Mark completion with positive feedback: animations, congratulations, visible pro
 
 ### Streak Mechanics
 Make visible the accumulation of repeated behaviors. Streaks create loss aversion around breaking the chain.
-- Users work to protect a streak — the accumulated investment becomes a motivator.
+- Users work to protect a streak - the accumulated investment becomes a motivator.
 
 ### Reinforcement Timing
 Deliver positive feedback immediately after the behavior, not at a delay. Delayed rewards are heavily discounted.
 - *Example: Instant "✅ Saved" confirmation feels more rewarding than "Your changes will appear in 30 minutes."*
 
 ### Review Loops
-Give users periodic visibility into their progress over time — weekly summaries, monthly reports, year-in-review.
+Give users periodic visibility into their progress over time - weekly summaries, monthly reports, year-in-review.
 - Reflection sustains long-term engagement and makes invisible progress visible.
 
 ---

@@ -65,14 +65,14 @@ Red flags: Hidden pre-selection of paid options. Artificial urgency ("Only 2 lef
 
 ## Dark Patterns to Avoid
 
-- **Confirmshaming** — Making the decline option emotionally punishing ("No thanks, I don't want to save money")
-- **Roach motel** — Easy to enter, very hard to leave
-- **Hidden costs** — Revealing charges late in the flow after the user has committed psychologically
-- **Misdirection** — Drawing attention away from information the user needs
-- **Artificial scarcity/urgency** — Creating time or supply pressure that isn't genuine
-- **Disguised ads or pre-selections** — Making promoted options look organic, or pre-checking paid upgrades
-- **Privacy zuckering** — Getting users to share more data than they'd want if they understood the implications
-- **Trick questions** — Confusing double-negatives or pre-checked opt-outs that are easy to miss
+- **Confirmshaming** - Making the decline option emotionally punishing ("No thanks, I don't want to save money")
+- **Roach motel** - Easy to enter, very hard to leave
+- **Hidden costs** - Revealing charges late in the flow after the user has committed psychologically
+- **Misdirection** - Drawing attention away from information the user needs
+- **Artificial scarcity/urgency** - Creating time or supply pressure that isn't genuine
+- **Disguised ads or pre-selections** - Making promoted options look organic, or pre-checking paid upgrades
+- **Privacy zuckering** - Getting users to share more data than they'd want if they understood the implications
+- **Trick questions** - Confusing double-negatives or pre-checked opt-outs that are easy to miss
 
 ---
 

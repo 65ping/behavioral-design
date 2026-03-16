@@ -44,15 +44,15 @@ Three workshop formats for different contexts. All share the same principle: dia
 | 20 min | Recap the diagnosis: barrier type, affected step, SPARK×WANT×AGAIN×CAN assessment |
 | 20 min | Principle mapping: which techniques apply to this barrier? Review the technique library together. |
 | 40 min | Crazy 8s: each participant sketches 8 distinct intervention ideas in 8 minutes (quantity over quality) |
-| 30 min | Gallery walk: silent review of all sketches, then group discussion — which address the actual root cause? |
+| 30 min | Gallery walk: silent review of all sketches, then group discussion - which address the actual root cause? |
 | 30 min | Hypothesis writing: write the top 3 interventions in "If... then... because..." format |
 | 20 min | Experiment planning: for each hypothesis, what's the minimum viable test? What would we measure? |
 
 **Facilitation tips:**
-- Crazy 8s forces quantity and surfaces unexpected ideas. Don't let people explain during the 8 minutes — drawing only.
+- Crazy 8s forces quantity and surfaces unexpected ideas. Don't let people explain during the 8 minutes - drawing only.
 - During gallery walk, ask: "Does this address the barrier we diagnosed, or a different problem?" This filters solutions looking for problems.
 - The hypothesis format is non-negotiable for the output. "We'll add a tooltip" is not testable. The full format ("If [change], then [metric change], because [mechanism]") is.
-- End with a prioritized shortlist and clear next steps for testing — not just a list of ideas.
+- End with a prioritized shortlist and clear next steps for testing - not just a list of ideas.
 
 ---
 
@@ -75,7 +75,7 @@ Use the audit checklist at [assets/behavioral-audit-template.md](../assets/behav
 **Facilitation tips:**
 - Walk through the actual product, not a prototype or description. Real interfaces reveal friction that polished mockups hide.
 - For each finding: name the barrier type, which CAN/WANT/SPARK/AGAIN force, and a specific recommended change.
-- Don't try to solve problems during the audit. The goal is a prioritized finding list — not a redesign session.
+- Don't try to solve problems during the audit. The goal is a prioritized finding list - not a redesign session.
 - Separate "quick fixes" (can be changed in days) from "structural changes" (require sprint planning).
 
 ---
@@ -88,6 +88,6 @@ Use the audit checklist at [assets/behavioral-audit-template.md](../assets/behav
 
 **Separate diagnosis from solution.** The best behavioral design thinking happens when teams resist jumping to solutions. Build the full diagnosis before generating interventions.
 
-**Psychological safety for critique.** Behavioral design often reveals that existing design choices have created friction. Create explicit space to name these without blame — this session is about learning, not assigning fault.
+**Psychological safety for critique.** Behavioral design often reveals that existing design choices have created friction. Create explicit space to name these without blame - this session is about learning, not assigning fault.
 
 **Test everything.** Every workshop output should end with a testing plan, not just a design plan. Behavioral interventions are hypotheses until measured.

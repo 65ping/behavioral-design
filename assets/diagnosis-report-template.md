@@ -1,7 +1,7 @@
 # Behavioral Diagnosis Report
 
 **Product / Flow:**
-**Target behavior:** [Specific, observable action — must pass the observable/measurable/specific test]
+**Target behavior:** [Specific, observable action - must pass the observable/measurable/specific test]
 **Date:**
 **Team:**
 
@@ -29,9 +29,9 @@
 
 **What the user experiences at this step:** [Description from the user's perspective]
 
-**Motivator gap:** [Which motivator type is missing — Emotional/Hedonic / Functional / Psychological?]
+**Motivator gap:** [Which motivator type is missing - Emotional/Hedonic / Functional / Psychological?]
 
-**SPARK × WANT × AGAIN × CAN assessment:** [Which force is failing most — CAN / WANT / SPARK / AGAIN?]
+**SPARK × WANT × AGAIN × CAN assessment:** [Which force is failing most - CAN / WANT / SPARK / AGAIN?]
 
 ---
 

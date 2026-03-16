@@ -1,6 +1,6 @@
 # Behavior Change Formula: SPARK × WANT × AGAIN × CAN
 
-Behavior is a product of four forces. If any is zero or near-zero, behavior doesn't happen — even if the others are strong. Diagnose which force is failing before designing interventions.
+Behavior is a product of four forces. If any is zero or near-zero, behavior doesn't happen - even if the others are strong. Diagnose which force is failing before designing interventions.
 
 ---
 
@@ -39,7 +39,7 @@ The user has sufficient reason to act right now.
 **When WANT is the problem:**
 - Users understand what to do but don't do it
 - High awareness, low action
-- Users say "I'll do it later" — and don't
+- Users say "I'll do it later" - and don't
 - Behavior completes once but doesn't repeat
 
 **WANT interventions:** Social Proof, Identity Framing, Personalization, Loss Aversion Framing, Progress Visibility, Goal Gradient, Anchoring, Priming, Meaning Addition, Implementation Intention Prompt
@@ -102,7 +102,7 @@ Is the user sufficiently motivated right now?
 
 Has the behavior become a habit?
 → No → AGAIN problem (no reinforcement)
-→ Yes → Behavior is working — focus on scaling
+→ Yes → Behavior is working - focus on scaling
 ```
 
 ---

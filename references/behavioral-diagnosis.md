@@ -1,4 +1,4 @@
-# Behavioral Diagnosis — Deep Guide
+# Behavioral Diagnosis - Deep Guide
 
 ## The Behavior Definition Test
 
@@ -16,7 +16,7 @@ If the behavior fails any test, rewrite it before proceeding.
 
 ## Building the Behavioral Map
 
-The behavioral map is a step-by-step trace of everything a user must do, know, and feel to complete the target behavior. It's the foundation of good diagnosis — you can't find barriers you haven't mapped.
+The behavioral map is a step-by-step trace of everything a user must do, know, and feel to complete the target behavior. It's the foundation of good diagnosis - you can't find barriers you haven't mapped.
 
 ### What to Capture at Each Step
 
@@ -58,15 +58,15 @@ The behavioral map is a step-by-step trace of everything a user must do, know, a
 
 Behavior is always situated. The same design produces different behaviors in different contexts.
 
-**Timing** — Is the user encountering this at the right moment in their task, day, or product lifecycle? Is this the first session or the fifth? Just after a success or a failure?
+**Timing** - Is the user encountering this at the right moment in their task, day, or product lifecycle? Is this the first session or the fifth? Just after a success or a failure?
 
-**Environment** — Mobile vs. desktop changes attention span, available time, and input method. At home vs. at work affects risk tolerance and social context.
+**Environment** - Mobile vs. desktop changes attention span, available time, and input method. At home vs. at work affects risk tolerance and social context.
 
-**Prior experience** — First-time users bring assumptions from analogous products. Returning users who abandoned once bring skepticism.
+**Prior experience** - First-time users bring assumptions from analogous products. Returning users who abandoned once bring skepticism.
 
-**Social context** — Is the action visible to others? Does that help or hurt? Are they influenced by what they believe their peers do?
+**Social context** - Is the action visible to others? Does that help or hurt? Are they influenced by what they believe their peers do?
 
-**Stakes** — High-consequence decisions (financial, health, public/permanent) trigger more anxiety, more deliberation, more avoidance.
+**Stakes** - High-consequence decisions (financial, health, public/permanent) trigger more anxiety, more deliberation, more avoidance.
 
 ---
 
@@ -92,15 +92,15 @@ Data tells you *where* behavior breaks down. Qualitative research tells you *why
 - "What would you have needed to feel more confident continuing?"
 - "What did you expect would happen when you clicked [Y]?"
 
-Avoid asking: "Why did you stop?" — users construct post-hoc reasons that often don't reflect the actual barrier.
+Avoid asking: "Why did you stop?" - users construct post-hoc reasons that often don't reflect the actual barrier.
 
 ---
 
 ## Prioritizing Drop-Off Points
 
-1. **Volume** — Where is the most behavioral loss? (highest absolute drop-off)
-2. **Leverage** — Is this step required for the target behavior? (bottleneck steps matter more)
-3. **Evidence quality** — Do you have enough signal to diagnose confidently?
-4. **Ease of intervention** — Can a design change plausibly fix this?
+1. **Volume** - Where is the most behavioral loss? (highest absolute drop-off)
+2. **Leverage** - Is this step required for the target behavior? (bottleneck steps matter more)
+3. **Evidence quality** - Do you have enough signal to diagnose confidently?
+4. **Ease of intervention** - Can a design change plausibly fix this?
 
 Start with the highest-volume, highest-leverage drop-off where you have strong diagnostic evidence.

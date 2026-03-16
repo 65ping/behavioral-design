@@ -5,7 +5,7 @@
 **Date:**
 **Auditor(s):**
 
-Rating scale: ✅ Pass / ⚠️ Partial / ❌ Fail / — N/A
+Rating scale: ✅ Pass / ⚠️ Partial / ❌ Fail / - N/A
 
 ---
 

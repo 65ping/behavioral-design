@@ -1,4 +1,4 @@
-# behavioral-design — Claude Skill
+# behavioral-design - Claude Skill
 
 A Claude skill that applies **behavioral psychology** and **behavioral economics** to product and UX design challenges.
 
@@ -22,17 +22,17 @@ Download [`behavioral-design.skill`](behavioral-design.skill) and open it, or dr
 
 The skill uses a **three-phase behavioral design process**:
 
-### Phase 1 — Behavioral Diagnosis
+### Phase 1 - Behavioral Diagnosis
 Define a precise, observable target behavior. Map every step the user takes. Identify where and why users drop off.
 
-### Phase 2 — Barrier Analysis (3Bs Model)
+### Phase 2 - Barrier Analysis (3Bs Model)
 Classify each drop-off using four barrier types:
-- **Attention barriers** — user doesn't notice or remember
-- **Cognitive overload** — decision is too complex or effortful
-- **Status quo bias** — inertia keeps users with current behavior
-- **Mental model mismatch** — user's understanding doesn't match the design
+- **Attention barriers** - user doesn't notice or remember
+- **Cognitive overload** - decision is too complex or effortful
+- **Status quo bias** - inertia keeps users with current behavior
+- **Mental model mismatch** - user's understanding doesn't match the design
 
-### Phase 3 — Intervention Design
+### Phase 3 - Intervention Design
 Design testable interventions using the **SPARK × WANT × AGAIN × CAN** formula:
 
 | Force | Addresses | Example techniques |
