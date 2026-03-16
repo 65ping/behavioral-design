@@ -45,7 +45,8 @@ Claude Code will detect the skill automatically. No configuration needed.
 
 ## What It Does
 
-This skill turns Claude into a behavioral design specialist. Describe your drop-off problem, adoption challenge, or design question - Claude diagnoses the psychological barrier, recommends specific interventions, and writes testable hypotheses.
+This skill turns Claude into a behavioral design specialist. Describe your drop-off problem, adoption challenge, or design question
+Claude diagnoses the psychological barrier, recommends specific interventions, and writes testable hypotheses.
 
 ```
 "Users complete signup but only 12% set up a savings goal. Why and how do I fix it?"
@@ -55,7 +56,7 @@ This skill turns Claude into a behavioral design specialist. Describe your drop-
 "I need a behavioral design workshop agenda for reducing churn in the first 30 days."
 ```
 
-Claude responds with a structured diagnosis, barrier identification, prioritized interventions with psychological mechanisms, testable hypothesis statements, and an ethics review built in.
+Claude responds with a structured diagnosis, barrier identification, prioritized interventions with psychological mechanisms, testable hypothesis statements and an ethics review built in.
 
 ---
 
