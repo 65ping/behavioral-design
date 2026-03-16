@@ -142,32 +142,93 @@ behavioral-design/
 
 ---
 
-## Example Prompts
+## Prompt Examples
 
-**Behavioral diagnosis:**
-> "I'm designing a savings feature for a fintech app. Users complete onboarding but only 12% set up a savings goal. Walk me through a diagnosis."
+The most effective way to use this skill is to describe your problem, the data you have, and what you need. Claude handles the rest.
 
-Claude maps the steps between onboarding completion and goal setup, identifies the most likely barrier type, surfaces the missing motivator, and recommends 3 prioritized interventions with hypotheses.
+---
 
-**Feature adoption:**
-> "Our collaboration feature has 8% adoption after 6 months. We've tried in-app tooltips. What else should we look at?"
+### Simple - Single diagnosis or intervention
 
-Claude runs a SUE Four Forces analysis, identifies whether this is a CAN, WANT, or SPARK failure, and recommends specific techniques with a test plan.
+**Diagnose a drop-off:**
+```
+Users complete our onboarding but only 12% set up a savings goal
+in the first 7 days. What's likely causing this and where do I start?
+```
+-> Claude identifies the most probable barrier type (attention, cognitive overload, status quo bias, or mental model mismatch), surfaces the missing motivator, and recommends where to focus first.
 
-**Nudge design with ethics:**
-> "I want to nudge users to log their meals daily. What technique should I use and how do I know it's ethical?"
+**Design a nudge:**
+```
+I want to nudge users to log their meals daily in a health app.
+What technique should I use?
+```
+-> Claude recommends a specific technique (e.g. implementation intention prompt or habit stacking), explains the psychological mechanism, and returns a hypothesis statement ready to test.
 
-Claude recommends implementation intention prompts and habit stacking, explains the psychological mechanism, and runs the full ethics check - user benefit test, transparency test, autonomy test, and manipulation vs. nudge distinction.
+**Run an ethics check:**
+```
+We're planning to use a countdown timer on our upgrade screen
+to create urgency. Is this ethical?
+```
+-> Claude runs the 4-point ethics check - user benefit, transparency, autonomy, and manipulation vs. nudge - and flags if the design crosses the line.
 
-**Behavioral audit:**
-> "Can you audit our checkout? Users add to cart but 68% abandon before payment. Flow: cart review, email entry, shipping address, payment, confirm."
+**Explain a principle:**
+```
+How does loss aversion apply to feature adoption?
+Give me a concrete example I can use in my design.
+```
+-> Claude explains the principle, shows how it appears in real product contexts, and gives a specific, testable design application.
 
-Claude reviews each step against CAN / WANT / SPARK / AGAIN and Ethics, flags the highest-risk drop-off points, and outputs a prioritized list of interventions with hypotheses.
+**Write a hypothesis:**
+```
+I want to test showing users how many people in their city
+completed profile setup in their first week.
+Write me a hypothesis statement for this experiment.
+```
+-> Claude returns a formatted hypothesis: "If [change], then [behavior + metric], because [mechanism]" - with measurement plan and ethics note.
 
-**Workshop facilitation:**
-> "I need a behavioral design workshop agenda for my product team. We're focused on reducing churn in the first 30 days."
+---
 
-Claude returns a complete workshop format with timing, activities, facilitation notes, and outputs for each phase.
+### Intermediate - Full diagnosis or multi-step work
+
+**Full behavioral diagnosis:**
+```
+Our collaboration feature has 8% adoption after 6 months.
+We've tried in-app tooltips and an email campaign.
+Walk me through a full behavioral diagnosis.
+```
+-> Claude maps the adoption path, applies the SUE Four Forces (Pains, Gains, Anxieties, Comforts), identifies whether this is a CAN, WANT, or SPARK failure, and returns prioritized interventions with hypotheses.
+
+**Behavioral audit of a flow:**
+```
+Run a behavioral audit on our e-commerce checkout.
+Users add to cart but 68% abandon before completing payment.
+Here's the flow: (1) Cart review (2) Email entry (3) Shipping address (4) Payment (5) Confirm.
+```
+-> Claude reviews each step against CAN / WANT / SPARK / AGAIN and Ethics, rates each for psychological effectiveness, flags the highest-risk drop-off points, and returns a prioritized intervention list.
+
+**Onboarding redesign:**
+```
+We're redesigning our onboarding for a B2B SaaS tool.
+The goal is to get users to connect their first integration
+before their second session. Where do we start?
+```
+-> Claude defines the precise target behavior, maps the activation path, identifies barriers by type, and produces a prioritized set of interventions with hypothesis statements and a measurement plan.
+
+**Workshop agenda:**
+```
+I need to run a behavioral design workshop with my product team next week.
+We're focused on reducing churn in the first 30 days.
+Give me a full agenda with facilitation notes.
+```
+-> Claude returns a complete workshop format - session goal, timing, activities, facilitation instructions per phase, outputs, and what to do if the team gets stuck.
+
+**Intervention prioritization:**
+```
+Here are 6 interventions we're considering for our activation flow.
+Which should we test first and why?
+[paste list]
+```
+-> Claude evaluates each against effort, expected impact, and the SPARK x WANT x AGAIN x CAN model, then returns a ranked priority order with rationale.
 
 ---
 
