@@ -7,19 +7,10 @@
 ```
 
 # Behavioral Design
-### A Claude Code Skill
 
 **Behavioral psychology and economics applied to product and UX design.**
 Built for product designers, UX designers, design managers, researchers, and cross-functional product teams.
 
-<br/>
-
-[![Version](https://img.shields.io/badge/version-1.0.0-0a0a0a?style=flat-square&labelColor=f5f0e8)](https://github.com/65ping/behavioral-design)
-[![Phases](https://img.shields.io/badge/phases-3-0a0a0a?style=flat-square&labelColor=f5f0e8)](https://github.com/65ping/behavioral-design/blob/main/SKILL.md)
-[![Techniques](https://img.shields.io/badge/techniques-20+-0a0a0a?style=flat-square&labelColor=f5f0e8)](https://github.com/65ping/behavioral-design/blob/main/references/intervention-techniques.md)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-0a0a0a?style=flat-square&labelColor=f5f0e8)](https://claude.ai/claude-code)
-
-<br/>
 
 </div>
 
