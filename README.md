@@ -257,10 +257,4 @@ The skill flags dark patterns and calls out when a proposed intervention crosses
 
 behavioral design, behavioral economics, nudge design, behavior change, UX psychology, product psychology, friction reduction, cognitive load, choice architecture, loss aversion, social proof, habit formation, onboarding optimization, feature adoption, engagement design, conversion optimization, design sprint, behavioral audit, intervention design, mental models, design psychology
 
----
 
-<div align="center">
-
-Built as a [Claude Code](https://claude.ai/claude-code) skill · v1.0.0
-
-</div>
